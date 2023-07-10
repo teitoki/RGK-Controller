@@ -1,170 +1,174 @@
-# RGK v1.0　マニュアル
+# RGK v1.0　Manual
 
 ![RGK](./img/RGK-photo.jpg)
 
-## はじめに
+## ※Sorry.This is machine translated. If you have any questions, please contact us.
 
-この度は『RGK Controller』をお買い上げ頂き誠にありがとうございます。
+## Introduction
 
-初の製造、販売品になりますので拙い部分もあると思いますがよろしくお願いします。
+Thank you for purchasing "RGK Controller".
 
-キー配列など、分かりづらい部分もあると思いますので下記の注意事項、説明をしっかり見ていただきますようお願い致します。
+This will be the first product we manufacture and sell, so we are not sure how well we will do in some areas, but we appreciate your cooperation.
 
-あなたがPCでの音ゲーライフを楽しめることを心より願っております！
+Please read the following notes and explanations carefully, as there may be some parts that are difficult to understand, such as the key layout.
 
-## 注意事項
+We sincerely hope you enjoy your sound game life on your PC!
 
-こちらの製品はあくまでもハンドメイド品です。
-はんだ付やプログラムの書き込み、動作確認は手作業で行っておりますので、企業様が作られているような製品よりも品質が劣っていたり製品ごとに品質がバラついたりします。
+## precautions
 
-アクリルやPCB(基板)に細かな傷がついていたり多少の汚れがある場合がございますが、工場から届いた時点で付いている事もあり傷一つない状態というのも難しいことがございますのでご了承ください。
+These products are handmade.
+Soldering, programming, and operation checks are done by hand, so the quality may be inferior to products made by companies, or the quality may vary from product to product.
 
-もちろん大きな傷や汚れがあると判断した物は検品の段階で弾いています。
+Please note that there may be some minor scratches or stains on the acrylic or PCB (circuit board), but it is difficult to ensure that there are no scratches as they are sometimes attached when the product arrives from the factory.
+
+Of course, items that are determined to have major scratches or stains are played at the inspection stage.
 <br>
 <br>
-- 製品には一部鋭利なパーツや壊れやすいパーツがありますので、注意して扱ってください．
-- まことに申し訳ありませんが、現状キー配列の変更はサポート外とさせていただきます。
+- Please handle the product with care, as some parts are sharp or fragile.
+- Changes to the current key arrangement will not be supported.
 
-検品は可能な限り行っておりますが、組立前に必ず以下の手順で初期不良のないことを確認してください。
+Although we inspect the products as much as possible, please be sure to confirm that there are no initial defects by following the procedures below before assembly.
 
-不具合が見つかった場合、お手数ですが商品到着後1週間以内に購入先へご連絡ください.
+If you find any defects, please contact the place of purchase within one week after receiving the product.
 
-1. アクリル部分が割れていないか確認する。
-2. ネジやキーキャップが取れている場合は付け直す。※ネジはきつく締めすぎないようにしてください。アクリルが割れます。
-3. PCに接続し、ドライバーがインストールされた後[keyboardchecker](https://keyboardchecker.com/)で対応している全てのキーが認識されているかを確認する。
+1. Check the acrylic part for cracks.
+2. If a screw or keycap is removed, reattach it. *Do not tighten screws too tightly. The acrylic will break.
+3. After connecting to the PC and installing the driver, check if all supported keys are recognized by [keyboardchecker](https://keyboardchecker.com/).
 
-### 利用規約
+### Terms of Use
 
-キーボードの画像や動画の公開はご自由にしていただいて大丈夫です。
+You are free to publish images and videos of the keyboard.
 
-ゲーム実況や動画で手元を撮影などの利用は宣伝にもなるのでガシガシやってください。
+Please be generous with the use of video games and videos of your hand in action, as it is good for publicity.
 
-下記は禁止致します。
-- 設計、デザイン、ロゴの流用の禁止
-- デザイン、ロゴを改変した物の二次利用の禁止
-- 公序良俗に反する利用の禁止
+The following are prohibited
+- No diversion of designs, designs, or logos
+- Prohibition of secondary use of modified designs and logos
+- Prohibition of use against public order and morals
 
-わからないことがあればお問い合わせください。
+If you have any questions, please contact us.
 
-## 使い方
+## How to Use
 
-### 接続方法
+### Connection method
 
-本製品はPCに接続すると自動でドライバがインストールされます。(デバイス名「RGK V1.0」)
+The driver is automatically installed when this product is connected to a PC. (Device name "RGK V1.0")
 
-製品とPCを接続した際に、製品右上のPromicroの赤いLEDが点灯していれば正常に接続できています。
+When the product is connected to a PC, the connection is successful if the red Promicro LED in the upper right corner of the product is lit.
 
-点滅やそれ以外の場合は正常に接続できていない可能性がございます。
-接続しても反応しない、動作が不安定という場合はマニュアル上に対処法を書いておきますので、そちらをご確認ください。
+If it blinks or otherwise, the connection may not be working properly.
 
-### キーマップ
+If the device does not respond or is unstable when connected, please refer to the manual for the solution.
 
-下記の画像の通りのキー配列となっております。
-右上の▽のキーを長押ししている間、画像２枚目のキー配列に切り替わります。
+### Key Maps
 
-#### キーマップ1
+The key layout is as shown in the image below.
+
+While holding down the key with the ▽ in the upper right corner, the key sequence switches to the key sequence in the second image.
+
+#### Key Map1
 
 ![RGK keymap1](./img/KeyMap1.png)
 
-#### キーマップ2　※右上のキーを長押ししている間のみ
+#### Key Map2　※Only while holding down the upper right key
 ![RGK keymap2](./img/KeyMap2.png)
 <br>
 <br>
-### キースイッチ、キーキャップの交換
+### Replacement of key switches and key caps
 
-#### 外す時
-- キースイッチ
+#### Remove
+- Key Switch
 
-  キースイッチ部はホットスワップに対応しているため、はんだ付け不要で簡単にスイッチを交換することが可能となっております。
+  The key switch section is hot-swappable, allowing easy replacement of switches without soldering.
 
-　　スイッチを外す際はキースイッチプラーを使うことを推奨しますが、素手でも外すことは可能です。
+　　We recommend using a key switch puller to remove the switch, but it can also be removed with bare hands.
 
-　　外す際は必ず斜めに引き抜かず、まっすぐ引き抜く様にしてください。
+　　When removing the device, be sure to pull it straight out, not at an angle.
 
-　　素手で外す際はスイッチをしっかり持って斜めにならないように気を付けてまっすぐ引き抜いてください。
+　　When removing it with bare hands, hold the switch firmly and pull it straight out, being careful not to do so at an angle.
 
   ![RGK](./img/remove.gif)
 
-- キーキャップ
+- Key Cap
 
-  素手でまっすぐ引き抜いてください。
+  Pull straight out with bare hands.
 
-  スイッチが一緒に抜けてしまう場合は、スイッチを抑えながらキーキャップ部分を抜きぬいてください。
+  If the switch falls out together, pull out the keycap part while holding the switch.
 
-#### 付ける時
-- キースイッチ
+#### Mounting
+- Key Switch
 
-　スイッチの足と基板の穴の位置をしっかり確認し、向きを間違わない様にまっすぐ差し込んでください。
+　Check the position of the foot of the switch and the hole in the board carefully, and insert the switch straight into the board so that it is facing the right direction.
 
-　カチッっとはまるわけではないので、スイッチがアクリル板までしっかりハマっていれば大丈夫です。
+　It does not snap into place, so as long as the switch is firmly hooked up to the acrylic plate, you should be fine.
 
-　スイッチの足は非常に曲がりやすいため扱いには気を付けてください。多少斜めになっている場合はまっすぐに直してから差し込んでください。
+　The legs of the switch are very easily bent, so handle with care. If they are slightly skewed, straighten them before inserting them.
 
  ![RGK](./img/put-on.gif)
 
-- キーキャップ
+- Key Cap
 
-  特に向きはございませんので、スイッチの穴とキャップの足を合わせてまっすぐ差し込んでください。
-
-
-## 困ったとき
-
-### 接続できない、反応しない
-
-下記の手順を上から１つずつお試しください。
-
-すべての対処をしても問題が解決しなかった場合はお手数ですがお問い合わせください
-
-#### ・LEDが正常に点灯しない。ドライバーがインストールされない場合
-1. 製品、PCそれぞれのUSBを差し直す
-2. 違うUSBポートに差し直す
-3. 付属のケーブルを使っている場合は別のケーブルを使ってみる。
-4. 製品をPCから外した状態でPCを再起動し、その後接続してみる。
+  There is no particular orientation, so insert the cap straight into the switch, aligning the hole in the switch with the foot of the cap.
 
 
-#### ・正常に認識しているが反応しない。反応がおかしい場合
-1. 製品、PCそれぞれのUSBを差し直す。
-2. 違うUSBポートに差し直す。
-3. 製品をPCから外した状態でPCを再起動し、その後接続してみる。
-4. 付属のケーブルを使っている場合は別のケーブルを使ってみる
+## When you are in trouble
 
-### キーの同時押しが4つ以上の時反応しない
-キーボード右上の「▽」を押しながら中央上の「NKRO on（キーマップ2参照)」を１回押してください。
+### Unable to connect, unresponsive
 
-一度押したらNキーロールオーバーが有効になり、全てのキーの同時押しも反応するようになります。
+Please try the following steps, one at a time from the top.
 
-有効にならなかった場合はもう一度上記手順をやり直してください。
+If you have taken all the steps and the problem has not been resolved, please contact us.
 
-## 構成パーツと付属品
+#### ・LEDs do not light properly. If the driver does not install
+1. Re-plug the USB for each product and PC.
+2. Plug it back into a different USB port.
+3. If you are using the supplied cable, try using a different cable.
+4. Restart the PC with the product disconnected from the PC and then try connecting it.
 
-|品名|数量|備考|
+
+#### ・Normal recognition but no response. If the response is not correct
+1. Re-plug the USB for each product and PC.。
+2. Plug it back into a different USB port.
+3. Restart the PC with the product disconnected from the PC and then try connecting it.
+4. If you are using the supplied cable, try using a different cable.
+
+### Keys do not respond when four or more keys are pressed simultaneously.
+Press "NKRO on" (see key map 2) once in the upper center while holding down "▽" in the upper right corner of the keyboard.
+
+Once pressed, N-key rollover is enabled and simultaneous presses of all keys will also respond.
+
+If it was not activated, please retry the above steps again.
+
+## Components and Accessories
+
+|name of product|quantity|note|
 |:--|:--|:--|
-|アクリルプレート（天面）|1枚||
-|アクリルプレート（底面）|1枚||
-|PCB（基板）|1枚||
-|スペーサー (M2x5 mm)|6個||
-|M2x5 トラス小ねじ steel|12個||
-|Pro micro Type-C|1個|MEGA32U4-MU|
-|ダイオード|18個|1N4148|
-|Kailh Choc V1 Red ロープロファイル|18個||
-|Kailh Choc Switch ソケット|18個||
-|Chocfox CFX Keycaps for Choc Switch 1U |6個|Black|
-|Chocfox CFX Keycaps for Choc Switch 1U |6個|White|
-|Chocfox CFX Keycaps for Choc Switch 1.75U |4個|Black|
-|Chocfox CFX Keycaps for Choc Switch 1.75U |2個|White|
-|Kailh Choc V1 Red ロープロファイル|18個||
-|ゴム足|4個|付属品|
-|USB2.0 Type-C ケーブル 1.5m|1個|付属品|
+|Acrylic plate (top side)|one sheet||
+|Acrylic plate (bottom side)|one sheet||
+|PCB(Board)|one sheet||
+|spacer (M2x5 mm)|6pcs.||
+|M2x5 truss countersunk screw steel|12pcs.||
+|Pro micro Type-C|1pcs.|MEGA32U4-MU|
+|Diode|18pcs.|1N4148|
+|Kailh Choc V1 Red Low-profile.|18pcs.||
+|Kailh Choc Switch Sockets|18pcs.||
+|Chocfox CFX Keycaps for Choc Switch 1U |6pcs.|Black|
+|Chocfox CFX Keycaps for Choc Switch 1U |6pcs.|White|
+|Chocfox CFX Keycaps for Choc Switch 1.75U |4pcs.|Black|
+|Chocfox CFX Keycaps for Choc Switch 1.75U |2pcs.|White|
+|Kailh Choc V1 Red Low-profile.|18pcs.||
+|Rubber feet|4pcs.|Accessory|
+|USB2.0 Type-C cable 1.5m|1pcs.|Accessory|
 
-## 免責事項
+## Disclaimer
 
-当キーボードの利用にあたって、何らかの不具合やトラブルが生じたとしても製作者一同一切の責任を負いません。
+The producer is not responsible for any problems or trouble that may occur when using this keyboard.
 
-自己責任でご利用ください。
+Use at your own risk.
 
-## クレジット、お問い合わせ先
-- 設計 製造　@teitoki 
+## Credit, contact information
+- Design Manufacturing　@teitoki 
 
 [Twetter](https://twitter.com/teitoki) / Mail→teitoki0977@yahoo.co.jp
 
-- ロゴ&シルクデザイン @GasuGuma
+- Logo & Silk Design @GasuGuma
