@@ -1,6 +1,6 @@
 # RGK v1.0　マニュアル
 
-![RGK](./img/RGK photo.jpg)
+![RGK](./img/RGK-photo.jpg)
 
 ## はじめに
 
