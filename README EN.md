@@ -56,6 +56,8 @@ The driver is automatically installed when this product is connected to a PC. (D
 
 When the product is connected to a PC, the connection is successful if the red Promicro LED in the upper right corner of the product is lit.
 
+![RGK LED](./img/LED.jpg)
+
 If it blinks or otherwise, the connection may not be working properly.
 
 If the device does not respond or is unstable when connected, please refer to the manual for the solution.
