@@ -143,6 +143,8 @@ If it was not activated, please retry the above steps again.
 
 ## Components and Accessories
 
+size 276mm x 124mm x 20mm (including keycap)
+
 |name of product|quantity|note|
 |:--|:--|:--|
 |Acrylic plate (top side)|one sheet||
