@@ -78,6 +78,12 @@ While holding down the key with the ▽ in the upper right corner, the key seque
 <br>
 ### Replacement of key switches and key caps
 
+Compatibility
+
+Switch Exclusive for Kailh Choc
+
+Keycap Kailh Choc Compatible
+
 #### Remove
 - Key Switch
 
