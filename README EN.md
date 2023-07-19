@@ -1,6 +1,6 @@
 # RGK v1.0　Manual
 
-![RGK](./img/RGK-photo.jpg)
+![RGK](./img/Banner.png)
 
 ## ※Sorry.This is machine translated. If you have any questions, please contact us.
 
