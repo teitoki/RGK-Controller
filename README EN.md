@@ -168,7 +168,7 @@ size 276mm x 124mm x 20mm (including keycap)
 |Chocfox CFX Keycaps for Choc Switch 1.75U |2pcs.|White|
 |Kailh Choc V1 Red Low-profile.|18pcs.||
 |Rubber feet|4pcs.|Accessory|
-|USB2.0 Type-C cable 1.5m|1pcs.|Accessory|
+|USB2.0 Type-C cable 1.2m|1pcs.|Accessory|
 
 ## Disclaimer
 
