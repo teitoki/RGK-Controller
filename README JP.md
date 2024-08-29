@@ -166,7 +166,7 @@
 |Chocfox CFX Keycaps for Choc Switch 1.75U |2個|White|
 |Kailh Choc V1 Red ロープロファイル|18個||
 |ゴム足|4個|付属品|
-|USB2.0 Type-C ケーブル 1.5m|1個|付属品|
+|USB2.0 Type-C ケーブル 1.2m|1個|付属品|
 
 ## 免責事項
 
